@@ -11,12 +11,39 @@
 <body>
 
 <div class="container">
+  <div class="container">
+    yoooooo ? bien ou quoi la famille
+    c'est notre nouveau tchat
+    Coucou L'autre kevin !
+  </div>
     HomePage content
     <nav class="nav nav-inline">
         <a class="nav-link active" href="home.html"> Home</a>
         <a class="nav-link" href="contact.html"> Contact</a>
         <a class="nav-link" href="skills.html"> Skills</a>
+wtf man !!!!!!!
+
+  <?php
+  class Pigeon{
+    if(kevin === 'pigeon'){
+      echo 'ne me chie pas dessus';
+    }else{
+      echo 'dégage';
+    }
+
+    public function saMere(){
+      return "maman";
+    }
+  }
+
+
+
+  ?>
     </nav>
+
+    <div class="container">
+
+    </div>
 </div>
 </body>
 </html>
